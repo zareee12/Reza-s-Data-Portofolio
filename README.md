@@ -8,6 +8,6 @@
 
 
 # Dashboard
-            |
+| Project Link                                  | Associated | Tools                                           | Project Description                                                                                                                              |
 |----------------------------------------------|------------|------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Retail Sales Dashboard](https://docs.google.com/spreadsheets/d/1Prl-u4KZoZlAlFEZllfnYEuyrZOb0CxGZv2Hf9b35LI/edit?hl=id&gid=1053070746#gid=1053070746) | Edspert | Excel | he Retail Sales Dashboard aims to provide a comprehensive overview of product sales performance in the retail sector over the course of a year (January to December). This dashboard is designed to assist users, such as retail managers or marketing teams, in monitoring and analyzing sales trends across various products. Through data visualizations like horizontal bar charts, vertical bar charts, and line charts, the dashboard enables |
