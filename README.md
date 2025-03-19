@@ -1,5 +1,11 @@
 # Reza's-Data-Portofolio
 
+# SQL
+
+| Project Link                                  | Associated | Tools                                           | Project Description                                                                                                                              |
+|----------------------------------------------|------------|------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Outbound-Roaming-Data-Analysis-and-Processing](https://github.com/zareee12/Mini-Library-Management-System/tree/main) |NTI|SQL| This project aims to analyze and process roaming data from telecommunication operators. The data is processed to gain insights into the performance of operators and countries in providing roaming services, with various metrics analyzed such as the number of active users, data traffic, session success rate, and latency. |
+
 # Python
 
 | Project Link                                  | Associated | Tools                                           | Project Description                                                                                                                              |
