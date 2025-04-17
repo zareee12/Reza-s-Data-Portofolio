@@ -1,10 +1,13 @@
 # Reza's-Data-Portofolio
-
+https://github.com/zareee12/sql-rental-dvd/tree/main
 # SQL
 
 | Project Link                                  | Associated | Tools                                           | Project Description                                                                                                                              |
 |----------------------------------------------|------------|------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Outbound-Roaming-Data-Analysis-and-Processing](https://github.com/zareee12/Outbound-Roaming-Data-Analysis-and-Processing) |NTI|SQL| This project aims to analyze and process roaming data from telecommunication operators. The data is processed to gain insights into the performance of operators and countries in providing roaming services, with various metrics analyzed such as the number of active users, data traffic, session success rate, and latency. |
+
+|----------------------------------------------|------------|------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| [DVD Rental Analisis](https://github.com/zareee12/sql-rental-dvd/tree/main) |DNA STUDIO|SQL| Data ini berisi perusahaan rental DVD film di seluruh dunia. Untuk meningkatkan kualitas layanan dan memahami perilaku pelanggan, mereka membangun sistem basis data untuk merekam seluruh proses bisnis: dari penyimpanan film, peminjaman, pembayaran, hingga laporan pelanggan terbaik. |
 
 # Python
 
