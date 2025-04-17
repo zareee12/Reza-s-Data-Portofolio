@@ -1,5 +1,5 @@
 # Reza's-Data-Portofolio
-https://github.com/zareee12/sql-rental-dvd/tree/main
+
 # SQL
 
 | Project Link                                  | Associated | Tools                                           | Project Description                                                                                                                              |
